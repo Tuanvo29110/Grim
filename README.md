@@ -28,7 +28,7 @@ A premium version is planned, which will offer additional subscription-based pai
 - Latest updates:
   - **[Modrinth](https://modrinth.com/plugin/grimac)** *(recommended)*
   - GitHub
-  artifacts: [Bukkit](https://nightly.link/GrimAnticheat/Grim/workflows/gradle-publish/2.0/grimac-bukkit.zip), [Fabric](https://nightly.link/GrimAnticheat/Grim/workflows/gradle-publish/2.0/grimac-fabric.zip) *(bleeding edge)*
+  artifacts: [Bukkit](https://nightly.link/GrimAnticheat/Grim/workflows/gradle-publish/2.0/grimac-bukkit.zip) *(bleeding edge)*
 - Major releases only:
   - ~~[Hangar](https://hangar.papermc.io/GrimAnticheat/GrimAnticheat)~~
   - ~~[SpigotMC](https://www.spigotmc.org/resources/grim-anticheat.99923/)~~
@@ -37,7 +37,6 @@ A premium version is planned, which will offer additional subscription-based pai
 
 - Java 17 or higher. *For more details, see [Updating-to-Java-17](https://github.com/GrimAnticheat/Grim/wiki/Updating-to-Java-17).*
 - A Spigot, Paper, Folia, or Fabric server environment. *For more details, see [Supported-environments](https://github.com/GrimAnticheat/Grim/wiki/Supported-environments).*
-
 If you use a proxy such as Velocity or BungeeCord:
 - If you use Geyser, Floodgate must be installed on the backend server (where Grim is) so Grim can access the Floodgate API.
 - If you use ViaVersion, it must be installed on the backend server (where Grim is) ONLY.

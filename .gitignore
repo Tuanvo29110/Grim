@@ -78,3 +78,8 @@ fabric/run/
 
 .ignored/
 /workspace.gradle.kts
+
+##############################
+## Commandcode
+##############################
+.commandcode/
